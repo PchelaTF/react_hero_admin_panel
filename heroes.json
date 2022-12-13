@@ -1,0 +1,109 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
+    },
+    {
+      "id": 2,
+      "name": "Неизвестный герой",
+      "description": "Скрывающийся в тени",
+      "element": "wind"
+    },
+    {
+      "id": 3,
+      "name": "Морской герой",
+      "description": "Как аквамен, но не из DC",
+      "element": "water"
+    },
+    {
+      "id": "25fa5f1e-09c0-4dd7-a552-0a3c4116b2a8",
+      "name": "qwerty",
+      "description": "Super def",
+      "element": "earth"
+    },
+    {
+      "id": "00a4ea2e-fdb3-425f-a8c2-a0eae45c32cf",
+      "name": "resources",
+      "description": "Super puper baff",
+      "element": "fire"
+    },
+    {
+      "id": "c47f3fd6-2f74-418d-b6aa-7d065fc67ba6",
+      "name": "HATOR",
+      "description": "HATORITO",
+      "element": "water"
+    },
+    {
+      "id": "343fc157-ab8f-4809-a4c5-7e8374c60083",
+      "name": "qeqwe",
+      "description": "asdasdasd",
+      "element": "wind"
+    },
+    {
+      "id": "8eb6dd9b-7595-479f-8482-add8341b21ba",
+      "name": "Zoltan",
+      "description": "Zoltanit to too",
+      "element": "earth"
+    },
+    {
+      "id": "80d90674-467c-407d-9b6a-59fc3f0fbc6a",
+      "name": "Name",
+      "description": "Description",
+      "element": "fire"
+    },
+    {
+      "id": "46227e35-02c0-4ba6-ab05-63e73ea6f8c9",
+      "name": "Claszz",
+      "description": "Fly away",
+      "element": "water"
+    },
+    {
+      "id": "77c59981-949c-4e98-9f70-8dcc7c0062cd",
+      "name": "Filter",
+      "description": "Best filter ever",
+      "element": "wind"
+    },
+    {
+      "id": "95cf22b3-3bea-40ac-88cd-3a04f796f1bd",
+      "name": "Five Fingers",
+      "description": "I have five fingers on my hande",
+      "element": "earth"
+    },
+    {
+      "id": "0598cc2c-1521-43b2-b32d-e948466cfbd6",
+      "name": "Test",
+      "description": "Test fetch",
+      "element": "fire"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
